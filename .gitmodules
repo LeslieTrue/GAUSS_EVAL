@@ -1,0 +1,3 @@
+[submodule "evalchemy"]
+	path = evalchemy
+	url = https://github.com/mlfoundations/evalchemy
